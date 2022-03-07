@@ -15,8 +15,8 @@ Next, the results for the weather conditions for December are depicted below. Th
 
 <img width="173" alt="SurfsUpTable2" src="https://user-images.githubusercontent.com/96558665/156974423-1192aa63-3d95-4085-92b1-3ea380f00230.png">
 
-  What I noticed between the two tables was that the temperatures in December while lower, were not as low as I expected.
+What I noticed between the two tables was that the temperatures in December while lower, were not as low as I expected.
 
 ###Summary
   
-  The overall results for weather conditions and the viability of opening a surf and ice-cream shop seem acceptable. Two additional queries to improve the results for this project   could be, calculating wind strengths and precipitation amounts.  Wind strength would determine the viability of surfing on windy days, and precipitation would also aid in that.
+The overall results for weather conditions and the viability of opening a surf and ice-cream shop seem acceptable. Two additional queries to improve the results for this project   could be, calculating wind strengths and precipitation amounts. Wind strength would determine the viability of surfing on windy days, and precipitation would also aid in that. An important missing data point from the results are population statistics by area and time of month. The younger members of the population would have a higher interest in surfing and ice cream while an older population would be less interested in surfing. Having an optimal location and knowing who your customers will be are important for having a successful business model.
